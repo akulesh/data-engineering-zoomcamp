@@ -2,8 +2,9 @@
 
 #### Notebook with solution: `solution.ipynb`
 
+<!--
 git config --local user.email kulesh271828@gmail.com
-git config --local user.name "Anton Kulesh"
+git config --local user.name "Anton Kulesh" -->
 
 In this homework we'll prepare the environment 
 and practice with Docker and SQL
